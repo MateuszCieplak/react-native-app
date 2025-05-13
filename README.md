@@ -9,14 +9,22 @@ Do odpalenia projektu, należy zainstalować:
 ## Uruchomienie projektu
 
 1. Sklonuj repozytorium:
-  git clone https://github.com/MateuszCieplak/react-native-app.git
-  cd react-native-app
+- git clone https://github.com/MateuszCieplak/react-native-app.git
+- cd react-native-app
 
 2. Zainstaluj zależności:
-npm install lub yarn install
+- npm install
+
+  **lub**
+
+- yarn install
 
 3. Uruchom Expo:
-npm start lub expo start
+- npm start
+
+  **lub**
+  
+- expo start
 
 4. Uruchom aplikację:
 - Android Emulator: naciśnij `a` w terminalu
